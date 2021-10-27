@@ -1,0 +1,32 @@
+.Box{
+    position: absolute;
+    top: 107%;
+    left: 27%;
+}
+
+.Box2{
+    position: absolute;
+    top: 107%;
+    left: 79%;
+}
+.Box3{
+    position: absolute;
+    top: 107%;
+    left: 132%; 
+}
+.Box4{
+    position: absolute;
+    top: 433%; 
+    left: 27%;
+
+}
+.Box5{
+    position: absolute;
+    top: 433%;
+    left: 79%;
+}
+.Box6{
+    position: absolute;
+    top: 433%;
+    left: 132%; 
+}

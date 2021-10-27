@@ -1,0 +1,9 @@
+.foot{
+    position: fixed ;
+    left: 0%;
+    top: 93%;
+    bottom: -3%;
+    right: 0%;
+    text-align: center;
+    background:antiquewhite;
+}
